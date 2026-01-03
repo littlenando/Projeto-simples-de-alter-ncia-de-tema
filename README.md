@@ -24,9 +24,7 @@ Praticar conceitos fundamentais de front-end, como:
 - Boas práticas iniciais de código
 
 ## 📷 Preview
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cf2d6702-b7ff-455c-823f-0a8fcacd69d8" />
-
-
+<img width="1916" height="350" alt="image" src="https://github.com/user-attachments/assets/0be48ed1-3071-4666-84f9-1a91fcc34552" />
 
 
 ## 🔗 Como executar
