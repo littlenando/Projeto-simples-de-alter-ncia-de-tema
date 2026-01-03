@@ -24,7 +24,10 @@ Praticar conceitos fundamentais de front-end, como:
 - Boas práticas iniciais de código
 
 ## 📷 Preview
-(Adicionar print da aplicação rodando)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cf2d6702-b7ff-455c-823f-0a8fcacd69d8" />
+
+
+
 
 ## 🔗 Como executar
 Basta abrir o arquivo `index.html` no navegador.
